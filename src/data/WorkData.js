@@ -9,6 +9,15 @@ export const Work = [
         
         demo:"",
         github:""
-    }
+    },
+    {
+        id:2,
+        name:"Mercys Youtube",
+        description:"Youtube Made With Reactjs and Rapid Api",
+        tags:["react","youtube","rapidapi","styledComponents"],
+        
+        demo:"https://630beaaea5277f1dde062a11--ubiquitous-phoenix-20cd7d.netlify.app/",
+        github:"https://github.com/AjayIrkal23/react-portfolio"
+    },
   
 ] 
